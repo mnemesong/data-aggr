@@ -5,6 +5,8 @@ Contains functions:
 - aggr
 - disaggr
 
+## Repository have been deprecated!
+Repository have been deprecated! Actual project keeps now in repository: https://gitflic.ru/project/pantagruel74/data-aggr
 
 ## Funciton aggr()
 
